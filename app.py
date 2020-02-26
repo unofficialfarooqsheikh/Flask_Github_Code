@@ -7,7 +7,6 @@ from security import authenticate, identity
 from resources.item import Item, ItemList
 from resources.user import UserManage
 from resources.store import Store, StoreList
-from sql import SQL
 
 app = Flask(__name__)
 app.config["SECRET_KEY"] = os.urandom(8) #can be used to check the secret Key
