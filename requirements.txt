@@ -4,3 +4,6 @@ Flask-JWT
 Flask-SQLAlchemy
 pyodbc
 uwsgi
+unixodbc
+unixodbc-dev
+python-pyodbc
