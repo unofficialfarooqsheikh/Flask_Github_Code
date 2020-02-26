@@ -2,5 +2,6 @@ Flask
 Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
-python-pyodbc
+pyodbc
 uwsgi
+unixodbc-dev
